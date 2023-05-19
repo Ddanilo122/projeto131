@@ -1,0 +1,31 @@
+.teste{
+    background-color: #ddd !important;
+    padding:30px;
+    border-radius:20px;
+    margin-top:50px;
+    box-shadow: 5px 5px 18px grey ;
+}
+.a,.b{
+    background-color: #aaa;
+    padding: 30px;
+    display:block;
+    border-radius:20px
+}
+body{
+    background-color: #999;
+}
+.c{
+    height:200px ;
+    width:200px ;
+}
+.result{
+    box-shadow:5px 5px 18px grey;
+    letter-spacing:2px;
+    background:lightgreen;
+    border-radius:20px;
+    margin-top:30px;
+    padding:20px;
+    border:2px solid grey;
+
+}
+
